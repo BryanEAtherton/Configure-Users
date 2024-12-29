@@ -5,7 +5,7 @@
 <h1>osTicket - Post-Installation Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-# Configure-Users
+# Configuring Users
 
 <p>
 <img src="https://i.imgur.com/GeiNSdw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
