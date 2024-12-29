@@ -8,10 +8,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 # Configure-Users
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eupodcF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Under the Permissions tab set permissions for the new role.
+1. From the Agent panel select the Users tab and click on Add User.
 </p>
 <br />
 
