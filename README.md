@@ -31,3 +31,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+
+[Click here to return to the osTicket Post Installation Configuration Homepage](https://github.com/BryanEAtherton/osticket-post-install-setup)
